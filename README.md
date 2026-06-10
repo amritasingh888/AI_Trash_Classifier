@@ -143,3 +143,4 @@ Passionate about Artificial Intelligence, Computer Vision, and Sustainable Techn
 **GitHub Repo Topics:**
 `artificial-intelligence` `deep-learning` `computer-vision` `tensorflow` `waste-classification` `trash-classifier` `recycling` `sustainability` `machine-learning` `python` `streamlit` `opencv` ♻️🚀
 ```
+https://huggingface.co/spaces/amru87665/Trash_Classification_Project
