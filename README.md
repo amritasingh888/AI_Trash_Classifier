@@ -1,8 +1,7 @@
-
-````markdown
 #  AI Trash Classifier
 
 An AI-powered waste classification system that uses Deep Learning and Computer Vision to identify and categorize trash from images. The project helps improve waste segregation, recycling efficiency, and environmental sustainability by automatically classifying waste into different categories.
+<img width="1290" height="892" alt="Screenshot 2026-06-10 144737" src="https://github.com/user-attachments/assets/d435dfb5-39db-4a29-8952-17885e104149" />
 
 ##  Features
 
