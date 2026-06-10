@@ -1,0 +1,18 @@
+# AI Trash Classifier
+
+A deep learning application that classifies waste into:
+
+- Cardboard
+- Glass
+- Metal
+- Paper
+- Plastic
+- Trash
+
+Built using:
+- Python
+- TensorFlow
+- OpenCV
+- Gradio
+
+Dataset: TrashNet
